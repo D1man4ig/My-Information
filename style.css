@@ -44,7 +44,7 @@ font-style: italic;
    font-weight: 700;
    color: orangered;
    padding-left: 20%;
-   -webkit-text-stroke: 1px white;
+   
  
 }
 .telegram{
@@ -89,7 +89,7 @@ font-style: italic;
       font-weight: 700;
       color: darkblue;
       padding-left: 20%;
-      -webkit-text-stroke: 1px white;
+      
    }
    .Gmail{
       margin: 30px;
@@ -111,5 +111,5 @@ font-style: italic;
          font-weight: 700;
          color: darkred;
          padding-left: 20%;
-         -webkit-text-stroke: 1px white;
+     
       }
